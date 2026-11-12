@@ -1,0 +1,9 @@
+RoadTest,BestRideComfort,LowestSuspensionTravel,LowestTyreDeflection,MinimumRMSAcceleration
+Baseline Bump,Skyhook,MR 0.5 A,Skyhook,0.709098011679506
+30 mm Bump,Skyhook,PID,Skyhook,0.421622304511353
+50 mm Bump,Skyhook,PID,Skyhook,0.699735115208705
+80 mm Bump,Skyhook,PID,Skyhook,1.12644553860045
+Speed 10 km/h,PID,MR 0.5 A,Passive,0.461715193067241
+Speed 20 km/h,Skyhook,PID,Skyhook,0.699735115208705
+Speed 30 km/h,Skyhook,Skyhook,Skyhook,0.681763501375277
+Random Road C,Skyhook,MR 0.5 A,Passive,0.610513632383183
